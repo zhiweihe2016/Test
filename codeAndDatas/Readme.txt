@@ -6,3 +6,7 @@ in the format of .dat, respectively.
 
     (2). two codes: one is the code of the algorithm for finding the singleton attractors (SingletonAttractors.for); 
 the other is the code of the algorithm for finding the pre-images (Preimage.for).
+
+
+
+演示改动代码时的同步操作！
